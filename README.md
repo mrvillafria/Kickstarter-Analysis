@@ -2,13 +2,15 @@
 
 ## Overview of Project
 
+During this project, we use Excel as a tool to better understand a large amount of data from Kickstarter. Kickstarter is a platform that allows people to showcase their projects and helps them start a campaign to raise money to fund their projects. This data set that we were given is composed of 4,000 different campaigns ranging in different categories. 
+
 ### Purpose
 
-The purpose of this project was to help Louise, an up-and-coming playwright, analyze and sort data so she can start a crowdfunding campaign to fund her play, Fever. The analysis compared different crowdfunding campaigns based on their launch dates and funding goals. In addition to analyzing and sorting the data, we created visualizations so Louise could see outcomes in a form that’s easier to understand and highlights useful information.
+The purpose of this project was to help Louise, an up-and-coming playwright, analyze and sort data so she can successfully start a crowdfunding campaign to fund her play, Fever. 
 
 ## Analysis and Challenges
 
-
+The analysis preformed compares different crowdfunding campaigns based on their launch dates and funding goals. In addition to analyzing and sorting the data, we created visualizations so Louise could see outcomes in a form that’s easier to understand and highlights useful information.
 
 ### Analysis of Outcomes Based on Launch Date
 
