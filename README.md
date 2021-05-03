@@ -12,6 +12,8 @@ The purpose of this project was to help Louise, an up-and-coming playwright, ana
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Resources](/Resources/Theater_Outcomes_vs_Launch.png)
+
 One of the areas we wanted to consider was timing for campaigns. We created a table and line with markers chart that showed how many successful, failed, and cancelled theater campaigns there were based on which month they launched on. The results show that May and June had the highest success rate to start a theater campaign. It also showed that December had around the same amount of successful and failed theater campaigns. May and June look like the best time to start a theater campaign since they had the most successful projects and the highest number of total theater projects during those months.
 
 ### Analysis of Outcomes Based on Goals
