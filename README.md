@@ -37,8 +37,8 @@ I have used Excel for work but have never used it to present or sort through dat
 
 - What are some limitations of this dataset?
 
-The dataset consisted of 4,000 crowdfunding projects and majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with. I also think there are some limitations around the word "successful" and "failed". I would like to know what the criteria is for a campaign project to be "successful".    
+The dataset consisted of 4,000 crowdfunding projects and majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with. I also think there are some limitations around the word "successful" and "failed". I would like to know what the criteria is for a campaign project to be "successful". Another limitation is that this data was taken from 2009-2017, it would be better to have more recent data. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. 
+In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. It showed that failed campaigns had high fundraising goals in comparision to what was pledged.
