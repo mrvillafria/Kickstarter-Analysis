@@ -28,17 +28,8 @@ I have used Excel for work but have never used it to present or sort through dat
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. May and June look like the best time to start a theater campaign since they had the most successful projects and the highest number of total theater projects during those months.
-2. In December, the number of successful projects is almost equal to the number of failed projects. I would recommend not launching a campaign for theater in December since the success rate is not that much higher than the failed rate. 
+For this project, we created two tables and two charts that compared different crowdfunding campaigns based on their launch dates and funding goals. After analyzing the Outcomes based on Launch Date line chart, May and June look like the best time to start a theater campaign since they had the most successful projects and the highest number of total theater projects during those months. We also saw that in December, the number of successful projects is almost equal to the number of failed projects. I would recommend not launching a campaign for theater in December since the success rate is not that much higher than the failed rate. When also reviewing the Outcomes based on Goals chart, we determined having a goal between less than $1000 to $4999 for a play campaign has the highest success percentage and yields the highest number of total play projects. 
 
-- What can you conclude about the Outcomes based on Goals?
-1. Having a goal between less than $1000 to $4999 for a play campaign has the highest success percentage and yields the highest number of total play projects.
+This dataset had a lot of information and was quite big. Some limitations I encountered were although the dataset consisted of 4,000 crowdfunding projects, majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with. I also think there are some limitations around the word "successful" and "failed". I would like to know what the criteria is for a campaign project to be "successful". Another limitation is that this data was taken from 2009-2017, it would be better to have more recent data.
 
-- What are some limitations of this dataset?
-
-The dataset consisted of 4,000 crowdfunding projects and majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with. I also think there are some limitations around the word "successful" and "failed". I would like to know what the criteria is for a campaign project to be "successful". Another limitation is that this data was taken from 2009-2017, it would be better to have more recent data. 
-
-- What are some other possible tables and/or graphs that we could create?
-
-In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. It showed that failed campaigns had high fundraising goals in comparision to what was pledged.
+In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. It showed that failed campaigns had high fundraising goals in comparison to what was pledged. 
