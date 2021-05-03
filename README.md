@@ -6,7 +6,7 @@ During this project, we use Excel as a tool to better understand a large amount 
 
 ### Purpose
 
-The purpose of this project was to help Louise, an up-and-coming playwright, analyze and sort data so she can successfully start a crowdfunding campaign to fund her play, Fever. 
+The purpose of this project was to help Louise, an up-and-coming playwright, analyze and sort the Kickstarter data so she can successfully start a crowdfunding campaign to fund her play, Fever. 
 
 ## Analysis and Challenges
 The analysis preformed compares different crowdfunding campaigns based on their launch dates and funding goals. In addition to analyzing and sorting the data, we created visualizations so Louise could see outcomes in a form that’s easier to understand and highlights useful information.
@@ -24,7 +24,7 @@ One of the areas we wanted to consider was timing for campaigns. We created a ta
 Another area we wanted to examine was looking at the outcomes based on the goal amount. We created a chart and a table that broke the goals down into dollar amount ranges and calculated the number of successful, failed, or cancelled play campaigns. We then calculated the percentage of successful, failed, or cancelled projects and used this information in our line chart. When the goal was less than $1000 for 186 play projects, it had the highest success percentage and lowest failed percentage. In this scenario, around 76% of play campaigns that had goals of less than $1000 were successful and around 24% of play campaigns failed. Also looking at goals between $1000 to $4999, there were 534 total play projects, and they had a success rate of around 73% and around 27% failed.
 
 ### Challenges and Difficulties Encountered
-I have used Excel for work but have never used it to present or sort through data in a meaningful way. My first issue I encountered during this module was trying to determine why none of my functions were working. For work, I use a lot of pipe delimited files so I changed my computer settings years ago to have my line seperators as pipes instead of commas. After realizing that the line seperator was the issue, I was then able to write my functions apporpriately. Pivot Tables and Pivot Charts were something new to me and presented somewhat of a challenge but the videos and examples during the module were very helpful.
+I have used Excel for work but have never used it to present or sort through data in a meaningful way. My first issue I encountered during this module was trying to determine why none of my functions were working. For work, I use a lot of pipe delimited files so I changed my computer settings years ago to have my line seperators as pipes instead of commas. After realizing that the line seperator was the issue, I was then able to write my functions apporpriately. This was a lesson that you can't always just copy and paste functions. Pivot Tables and Pivot Charts were something new to me and presented somewhat of a challenge but the videos and examples during the module were very helpful.
 
 ## Results
 
