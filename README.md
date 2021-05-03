@@ -30,13 +30,14 @@ I have used Excel for work but have never used it to present or sort through dat
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. May and June look like the best time to start a theater campaign since they had the most successful projects and the highest number of total theater projects during those months.
+2. In December, the number of successful projects is almost the equal to the number of failed projects. I would recommend not launching a campaign for theater in December since the success rate is not that much higher than the failed rate. 
 
 - What can you conclude about the Outcomes based on Goals?
 1. Having a goal between less than $1000 to $4999 for a play campaign has the highest success percentage and yields the highest number of total play projects.
 
 - What are some limitations of this dataset?
 
-The dataset consisted of 4,000 crowdfunding projects and majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with.   
+The dataset consisted of 4,000 crowdfunding projects and majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with. I also think there are some limitations around the word "successful" and "failed". I would like to know what the criteria is for a campaign project to be "successful".    
 
 - What are some other possible tables and/or graphs that we could create?
 
