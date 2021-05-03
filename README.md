@@ -6,7 +6,7 @@ During this project, we use Excel as a tool to better understand and display a l
 
 ### Purpose
 
-The purpose of this project was to help Louise, an up-and-coming playwright, analyze and sort the Kickstarter data so she can successfully start a crowdfunding campaign to fund her play, Fever. 
+The purpose of this project was to help Louise, an up-and-coming playwright, analyze and sort the Kickstarter data so she can successfully start a crowdfunding campaign to fund her play, Fever. Using Excel, we will create various charts and tables that will help display the information in a meaningful way to Louise. Based on our findings, Louise will be able to make smart decisions regarding her play campaign. 
 
 ## Analysis and Challenges
 The analysis preformed compares different crowdfunding campaigns based on their launch dates and funding goals. In addition to analyzing and sorting the data, we created visualizations so Louise could see outcomes in a form that’s easier to understand and highlights useful information.
