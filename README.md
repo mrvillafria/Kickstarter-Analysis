@@ -12,6 +12,8 @@ The purpose of this project was to help Louise, an up-and-coming playwright, ana
 
 The analysis preformed compares different crowdfunding campaigns based on their launch dates and funding goals. In addition to analyzing and sorting the data, we created visualizations so Louise could see outcomes in a form that’s easier to understand and highlights useful information.
 
+I have used Excel for work but have never used it to present or sort through data in a meaningful way. My first issue I encountered during this module was trying to determine why none of my functions were working. For work, I use a lot of pipe delimited files so I changed my computer settings years ago to have my line seperators as pipes instead of commas. After realizing that the line seperator was the issue, I was then able to write my functions apporpriately. Pivot Tables and Pivot Charts were something new to me and presented somewhat of a challenge but the videos and examples during the module were very helpful.  
+
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
@@ -38,4 +40,4 @@ Another area we wanted to examine was looking at the outcomes based on the goal 
 The dataset consisted of 4,000 crowdfunding projects and majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with.   
 
 - What are some other possible tables and/or graphs that we could create?
-
+In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. 
