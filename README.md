@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-During this project, we use Excel as a tool to better understand a large amount of data from Kickstarter. Kickstarter is a platform that allows people to showcase their projects and helps them start a campaign to raise money to fund their projects. This data set that we were given is composed of 4,000 different campaigns ranging in different categories during the years of 2009-2017. 
+During this project, we use Excel as a tool to better understand and display a large amount of data from Kickstarter. Kickstarter is a platform that allows people to showcase their projects and helps them start a campaign to raise money to fund their projects. This data set that we were given is composed of 4,000 different campaigns ranging in different categories during the years of 2009-2017. 
 
 ### Purpose
 
