@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-During this project, we use Excel as a tool to better understand a large amount of data from Kickstarter. Kickstarter is a platform that allows people to showcase their projects and helps them start a campaign to raise money to fund their projects. This data set that we were given is composed of 4,000 different campaigns ranging in different categories. 
+During this project, we use Excel as a tool to better understand a large amount of data from Kickstarter. Kickstarter is a platform that allows people to showcase their projects and helps them start a campaign to raise money to fund their projects. This data set that we were given is composed of 4,000 different campaigns ranging in different categories during the years of 2009-2017. 
 
 ### Purpose
 
@@ -15,7 +15,7 @@ The analysis preformed compares different crowdfunding campaigns based on their 
 
 ![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
-One of the areas we wanted to consider was timing for campaigns. We created a table and line with markers chart that showed how many successful, failed, and cancelled theater campaigns there were based on which month they launched on. This data was captured between 2009 through 2017. The results show that May and June had the highest success rate to start a theater campaign. It also showed that December had around the same amount of successful and failed theater campaigns.
+One of the areas we wanted to consider was timing for campaigns. We created a pivot table and line with markers chart that showed how many successful, failed, and cancelled theater campaigns there were based on which month they launched on. This data was captured between 2009 through 2017. The results show that May and June had the highest success rate to start a theater campaign. It also showed that December had around the same amount of successful and failed theater campaigns.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -32,4 +32,4 @@ For this project, we created two tables and two charts that compared different c
 
 This dataset had a lot of information and was quite big. Some limitations I encountered were although the dataset consisted of 4,000 crowdfunding projects, majority of the campaigns were in the US. If Louise is looking to do another project in a different country like Great Britain, her sample size would be smaller to work with. I also think there are some limitations around the word "successful" and "failed". I would like to know what the criteria is for a campaign project to be "successful". Another limitation is that this data was taken from 2009-2017, it would be better to have more recent data.
 
-In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. It showed that failed campaigns had high fundraising goals in comparison to what was pledged. 
+In Module 1, we created a "Descriptive Statistics" table, I thought that table had a lot of great information. In this table, we calculated the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR for the goal amount and the pledged amount. It showed that failed campaigns had high fundraising goals in comparison to what was pledged. I think another chart or table that would be helpful would be comparing how long campaigns lasted. It would be interesting to see if projects were more successful if they had more time to raise more money and get more backers. 
